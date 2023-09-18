@@ -29,7 +29,8 @@
             "flexDirection": "column",
             "justifyContent": "center",
             "alignItems": "center",
-            "display": "flex"
+            "display": "flex",
+            "backgroundColor": "rgba(255, 0, 0, 1)"
         },
         "ShowStatusBar": true,
         "StatusBarStyle": "default",
@@ -42,7 +43,8 @@
         "DesignerHeight": 667,
         "DesignerWidth": 375,
         "ResponsiveWidth": 375,
-        "isSimple": true
+        "isSimple": true,
+        "BackgroundColor": "rgba(255, 0, 0, 1)"
     },
     "children": [
         {
@@ -488,13 +490,13 @@
             "translatedName": "Image",
             "properties": {
                 "resizeMode": "contain",
-                "Height": 311,
-                "Width": 311,
+                "Height": 313,
+                "Width": 313,
                 "Visible": true,
-                "X": 32,
-                "Y": 20,
-                "RelativeX": 32,
-                "RelativeY": 20,
+                "X": 33,
+                "Y": 21,
+                "RelativeX": 33,
+                "RelativeY": 21,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -520,7 +522,7 @@
                 },
                 "ParentId": "bc736a05-2939-493d-b4aa-096c02a2560a",
                 "position": "absolute",
-                "edgeOffsets": 20.999999999999996
+                "edgeOffsets": 21
             },
             "children": [],
             "id": "ac1073b0-c27f-4504-871e-804a19f40a5f",
